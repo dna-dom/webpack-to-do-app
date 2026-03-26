@@ -63,6 +63,6 @@
       "style-loader": "~4.0",
       "w3c-html-validator": "~2.2",
       "webpack": "~5.105",
-      "webpack-cli": "~6.0"
+      "webpack-cli": "~7.0"
    }
 }
