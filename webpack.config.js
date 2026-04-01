@@ -1,6 +1,6 @@
 // webpack-to-do-app
 
-import path from 'path';
+import path              from 'node:path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 
 const webpackConfig = {
