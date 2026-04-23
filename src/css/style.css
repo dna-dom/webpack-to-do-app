@@ -7,6 +7,9 @@ body {
 body >header >h1 {
    text-align: left;
    }
+main {
+   margin-bottom: 20px;
+   }
 main input[type=text] {
    max-width: 15em;
    margin-right: 10px;
