@@ -11,3 +11,7 @@ main input[type=text] {
    max-width: 15em;
    margin-right: 10px;
    }
+body >footer >a {
+   font-size: 2rem;
+   border: none;
+   }
