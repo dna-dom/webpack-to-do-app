@@ -24,6 +24,9 @@ webpack-to-do-app/
       index.html
 ```
 
+<img src=https://raw.githubusercontent.com/dna-dom/webpack-to-do-app/main/screenshot.png
+width=400 alt=screenshot>
+
 ## B) Online Example
 Instead of running locally, you can check out this version:<br>
 [dna-dom.github.io/webpack-to-do-app](https://dna-dom.github.io/webpack-to-do-app/)
