@@ -6,13 +6,14 @@
 #     $ chmod +x build.sh.command
 
 banner="webpack-to-do-app"
-projectHome=$(cd $(dirname $0); pwd)
+projectHome=$(realpath $0/../..)
 
 setupTools() {
    cd $projectHome
    echo
    echo $banner
    echo $(echo $banner | sed s/./=/g)
+   date
    pwd
    [ -d .git ] || { echo "Project must be in a git repository."; exit; }
    [ -d dist ] && git restore dist
